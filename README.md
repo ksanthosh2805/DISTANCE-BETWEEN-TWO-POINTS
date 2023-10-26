@@ -27,3 +27,4 @@ print(f"{d:.2f}")
 ![output](/Screenshot%202023-10-23%20142212.png)
 
 ### RESULT:
+Distance between two points are successfully found
