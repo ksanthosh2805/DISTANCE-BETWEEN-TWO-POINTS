@@ -23,7 +23,7 @@ d=math.sqrt(((x2-x1)**2)+((y2-y1)**2))
 print(f"{d:.2f}")
 ```
 
-### OUTPUT:
+# OUTPUT:
 ![output](/Screenshot%202023-10-23%20142212.png)
 
 ### RESULT:
