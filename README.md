@@ -24,7 +24,9 @@ print(f"{d:.2f}")
 ```
 
 # OUTPUT:
-![output](/Screenshot%202023-10-23%20142212.png)
+![output](https://github.com/ksanthosh2805/DISTANCE-BETWEEN-TWO-POINTS/assets/85092922/4bc66d3b-e416-4245-9bcf-02c06aef2fb9)
+
+
 
 ### RESULT:
 Distance between two points are successfully found
